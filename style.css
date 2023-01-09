@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;
+}
+
+body>.container{
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+    background-color: beige;
+    border-radius: 5px;
+}
+
+p{
+    font-size: 100px;
+}
